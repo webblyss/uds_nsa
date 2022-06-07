@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455828217157",
+    "project_id": "uds-nsa",
+    "storage_bucket": "uds-nsa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455828217157:android:272e2a1edd4ac630f5f22c",
+        "android_client_info": {
+          "package_name": "com.skyhighcoding.component_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455828217157-gvmj9719bfdm9nvcij8ufg3b02nc38ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfPdd7sH0e1I1sOtC-3pskFszNzT9S2o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455828217157-gvmj9719bfdm9nvcij8ufg3b02nc38ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
